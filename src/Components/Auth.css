@@ -1,0 +1,118 @@
+.auth-section{
+    min-height:100vh;
+    margin:0% auto;
+    background-color: #f1f2f3;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 19px;
+}
+
+.auth-section{
+    background:url('images/shopping-bag-cart.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.auth-container-1{
+    padding: 20px;
+    margin-right: 30px;
+}
+
+.login-logo{
+    padding: 20px 30px;
+    margin-bottom: -70px;
+    width: 206px;
+}
+
+.auth-container-2{
+            margin-top: 30px;
+    min-width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 87px;
+}
+
+.auth-container-2 form {
+    width: 119%;
+    padding: 14px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    box-shadow: 0 10px 20px rgb(0 0 0 / 5%), 0 20px 48px rgb(0 0 0 / 5%), 0 1px 4px rgb(0 0 0 / 10%);
+    margin-top: 70px;
+    padding-bottom: 16px;
+    line-height: 29px;
+    padding-bottom: 29px;
+}
+
+
+.auth-container-2 form label input{
+    padding: 10px;
+    width:calc(100% - 7px);
+    border: solid 1px #0000003e;
+    font-size: 13px;
+}
+
+.auth-container-2 form label:nth-child(1) h4,
+.auth-container-2 form label:nth-child(2) h4,
+.auth-container-2 form label:nth-child(3) h4 {
+   margin-top: 10px;
+   margin-bottom: 5px;
+} 
+
+.auth-container-2 form label:nth-child(4){
+    display: flex;
+}
+
+.auth-container-2 form label:nth-child(4) input{
+  width:4%;
+  margin:13px 0px;  
+}
+
+.auth-btn{
+    margin-top: 10px;
+    padding:10px 5px;
+    background-color: #009dff;
+    border: solid ipx #009dff;
+    color:white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.2s;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.auth-btn:hover{
+    background-color: #018ce3;
+}
+
+.handle-switch-btn{
+    background-color: transparent;
+    color:#007ac6;
+    font-weight:600;
+    border:none;
+    font-size:13px;
+    cursor: pointer;
+}
+
+p.check-input {
+    padding-left: 17px;
+}
+
+
+@media (max-width:768px){
+    .auth-container-2 {
+        min-width: 20%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 87px;
+        margin-top: 30px;
+    }
+}
