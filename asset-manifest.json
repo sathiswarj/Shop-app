@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.79bd991b.css",
+    "main.js": "/shop/static/js/main.d3aeed13.js",
+    "static/js/787.ba45103f.chunk.js": "/shop/static/js/787.ba45103f.chunk.js",
+    "static/media/shopping-bag-cart.jpg": "/shop/static/media/shopping-bag-cart.b36b3ac735cf7eb299b5.jpg",
+    "static/media/homepage.png": "/shop/static/media/homepage.c114b850947ae888d5a2.png",
+    "static/media/product-3.jpg": "/shop/static/media/product-3.52df8efd95ada6fdb38a.jpg",
+    "static/media/product-2.jpg": "/shop/static/media/product-2.7e62a954384ddbbbd545.jpg",
+    "static/media/empty-cart.png": "/shop/static/media/empty-cart.88702cd26d71a0576433.png",
+    "static/media/product-8.jpg": "/shop/static/media/product-8.9b4ff590c84036e2a787.jpg",
+    "static/media/offer-img.jpeg": "/shop/static/media/offer-img.756bb1cd868fc8277d93.jpeg",
+    "index.html": "/shop/index.html",
+    "main.79bd991b.css.map": "/shop/static/css/main.79bd991b.css.map",
+    "main.d3aeed13.js.map": "/shop/static/js/main.d3aeed13.js.map",
+    "787.ba45103f.chunk.js.map": "/shop/static/js/787.ba45103f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79bd991b.css",
+    "static/js/main.d3aeed13.js"
+  ]
+}
